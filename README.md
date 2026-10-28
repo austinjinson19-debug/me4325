@@ -9,8 +9,8 @@ This repository contains my ME4325 assignments, weekly work logs, progress repor
 ## Task Checklist
 
 - [x] Task 1 – Create a public repository named `me4325` and add a portfolio description.
-- [ ] Task 2 – Upload work logs and progress reports, organise folders and provide the repository link.
-- [ ] Task 3 – Add a table and ordered list to README.md.
+- [x] Task 2 – Upload work logs and progress reports, organise folders and provide the repository link.
+- [x] Task 3 – Add a table and ordered list to README.md.
 - [ ] Task 4 – Complete the assigned task.
 - [ ] Task 5 – Complete the assigned task.
 - [ ] Using Git for version control from your own computer.
@@ -18,12 +18,12 @@ This repository contains my ME4325 assignments, weekly work logs, progress repor
 
 ## Work Logs
 
-- [ ] Work Log 1 – 22 September 2026
-- [ ] Work Log 2 – 29 September 2026
-- [ ] Work Log 3 – 6 October 2026
-- [ ] Work Log 4 – 13 October 2026
-- [ ] Work Log 5 – 20 October 2026
-- [ ] Work Log 6 – 27 October 2026
+- [x] Work Log 1 – 22 September 2026
+- [x] Work Log 2 – 29 September 2026
+- [x] Work Log 3 – 6 October 2026
+- [x] Work Log 4 – 13 October 2026
+- [x] Work Log 5 – 20 October 2026
+- [x] Work Log 6 – 27 October 2026
 - [ ] Work Log 7 – 3 November 2026
 - [ ] Work Log 8 – 10 November 2026
 - [ ] Work Log 9 – 17 November 2026

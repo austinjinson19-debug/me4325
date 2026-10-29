@@ -33,9 +33,9 @@ This repository contains my ME4325 assignments, weekly work logs, progress repor
 
 ## Progress Reports
 
-- [ ] Progress Report 1 – 24 September 2026
-- [ ] Progress Report 2 – 8 October 2026
-- [ ] Progress Report 3 – 22 October 2026
+- [x] Progress Report 1 – 24 September 2026
+- [x] Progress Report 2 – 8 October 2026
+- [x] Progress Report 3 – 22 October 2026
 - [ ] Progress Report 4 – 5 November 2026
 - [ ] Progress Report 5 – 18 November 2026
 - [ ] Progress Report 6 – 2 December 2026
@@ -63,13 +63,13 @@ This repository contains my ME4325 assignments, weekly work logs, progress repor
 
 ## Workflow
 
-1. **Plan**
+1. Plan
    - Review the instructions.
    - Identify the requirements and deadline.
-2. **Complete**
+2. Complete
    - Carry out the work.
    - Record progress and challenges.
-3. **Upload**
+3. Upload
    - Save the files in the correct folders.
    - Update the checklist after uploading.
 

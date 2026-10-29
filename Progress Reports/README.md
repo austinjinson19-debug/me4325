@@ -51,3 +51,25 @@ Work to Be Completed
 •	Continue developing my knowledge of industrial automation and motor control systems.
 Complications
 The main challenge was that the motor itself was capable of spinning, but it was not operating when the Start command was given from the PLC. This meant that the fault could have been within the control signals, PLC or inverter rather than the motor itself. I therefore had to test the different parts of the system to narrow down the cause.
+
+Progress Report – Week 3 & 4
+To: ME4325 Lecturer
+From: Austin Jinson
+Subject: Co-op Placement Progress Report – Weeks 3 & 4
+Project Overview
+During weeks three and four, I began working on two main projects: investigating quality defects in DHEC nose clip production, and contributing to the setup of an automated inspection system for nose clips on the manufacturing line.
+Work Completed
+Mapped the full 8-stage DHEC nose clip production process, identifying each stage from mixing through to packaging.
+Identified potential fault sources at key stages including mixer contamination, a faulty oven sensor, an old trim plate, and limited expander availability.
+Began collecting and organising production reject data for DHEC parts across four part types (DHEC 2200, 2300, 2400, 2500).
+Built a DHEC Production Tracker in Excel with five sheets: Raw Data, Weekly Summary, Part Summary, Defect Pareto, and Part Pareto.
+Work in Progress
+Entering raw production data into the tracker.
+Investigating which defect types are most frequent at moulding and expansion stages.
+Becoming familiar with the Keyence VS-L500CX vision camera system and VS Creator software.
+Work to Be Completed
+Complete Pareto analysis of moulding and expanded defects.
+Present findings to management.
+Begin configuring the vision system for automated inspection.
+Complications
+The main challenge was the volume and inconsistency of handwritten production records, making data entry time-consuming. Additionally, identifying fault sources required observing multiple production stages and consulting with operators across different shifts.

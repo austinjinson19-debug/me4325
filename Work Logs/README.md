@@ -46,5 +46,13 @@ Week 24:
 •	Reflecting on the communication gap between management and machine operators.
 •	Next steps for measuring the effectiveness of the docket.
 
+Week 25:
+• Completed Pareto analysis of DHEC moulding defects: Short Parts (647), Splits (564), Cold Parts (345), Inclusions (339), Bubbles (114) — total 2,001 rejects at 6.13%.
+• Completed Pareto analysis of expanded defects: Inclusions (1,084), Splits (355), Cold Parts (45) — confirmed mixer IR16 contamination as root cause.
+• Programmed CTU part counter in TIA Portal V21, linking through-beam sensor (I0.2) and solenoid trigger (Q0.1) with preset value of 900.
+• Wired and tested Moflash AE30M buzzer (Q0.2) and Schneider ZBE-101 reset button (I0.4).
+• Began configuring ShapeTrax3A pattern registration on the VS-L500CX.
+
+
 
 

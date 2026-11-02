@@ -72,6 +72,12 @@ This repository contains my ME4325 assignments, weekly work logs, progress repor
 3. Upload
    - Save the files in the correct folders.
    - Update the checklist after uploading.
+  
+## Task 4 – Engineering Image
+
+The following image represents my interests and practical experience in Digital Mechatronics Engineering.
+
+![ME4325 Engineering Image](Images/me4325-engineering.jpg)
 
 ## Repository Link
 

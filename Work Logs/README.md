@@ -53,6 +53,13 @@ Week 25:
 • Wired and tested Moflash AE30M buzzer (Q0.2) and Schneider ZBE-101 reset button (I0.4).
 • Began configuring ShapeTrax3A pattern registration on the VS-L500CX.
 
+Week 26:
+• Reviewed VS Creator data output settings and began configuring CSV export to log inspection results to a network folder
+• Tested CSV export with known-good and defective parts to verify data was being written correctly
+• Set up defect percentage breakdown by tool on the VS Creator Custom Screen to show pass/fail rate per tool in real time
+• Investigated Start button (I0.0) fault — checked wiring continuity and confirmed faulty Schneider ZBE-101 contact, sourced replacement part
+• Continued DHEC reject data entry into tracker, completed January through March and began Pareto analysis review
+
 
 
 

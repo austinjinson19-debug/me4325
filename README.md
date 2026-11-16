@@ -79,6 +79,12 @@ The following image represents my interests and practical experience in Digital 
 
 ![ME4325 Engineering Image](Images/me4325-engineering.jpg)
 
+## Task 5 – Curriculum Vitae
+
+My CV is available here:
+
+[View My CV](Austin_Jinson_cv.md)
+
 ## Repository Link
 
 https://github.com/austinjinson19-debug/me4325

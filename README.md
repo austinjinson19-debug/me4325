@@ -25,8 +25,8 @@ This repository contains my ME4325 assignments, weekly work logs, progress repor
 - [x] Work Log 5 – 20 October 2026
 - [x] Work Log 6 – 27 October 2026
 - [x] Work Log 7 – 3 November 2026
-- [ ] Work Log 8 – 10 November 2026
-- [ ] Work Log 9 – 17 November 2026
+- [x] Work Log 8 – 10 November 2026
+- [x] Work Log 9 – 17 November 2026
 - [ ] Work Log 10 – 24 November 2026
 - [ ] Work Log 11 – 1 December 2026
 - [ ] Work Log 12 – 8 December 2026
@@ -37,7 +37,7 @@ This repository contains my ME4325 assignments, weekly work logs, progress repor
 - [x] Progress Report 2 – 8 October 2026
 - [x] Progress Report 3 – 22 October 2026
 - [x] Progress Report 4 – 5 November 2026
-- [ ] Progress Report 5 – 18 November 2026
+- [x] Progress Report 5 – 18 November 2026
 - [ ] Progress Report 6 – 2 December 2026
 - [ ] Feasibility and Recommendations Report – 18 November 2026
 
@@ -47,11 +47,11 @@ This repository contains my ME4325 assignments, weekly work logs, progress repor
 |---|---|---|
 | Task 1 | 21 September 2026 | Submitted |
 | Task 2 | 5 October 2026 | Fixes required |
-| Task 3 | 19 October 2026 | To complete |
-| Task 4 | 2 November 2026 | Pending |
-| Task 5 | 16 November 2026 | Pending |
-| Git version control | 24 November 2026 | Pending |
-| SSH case study | 24 November 2026 | Pending |
+| Task 3 | 19 October 2026 | completed |
+| Task 4 | 2 November 2026 | completed |
+| Task 5 | 16 November 2026 | completed |
+| Git version control | 24 November 2026 | completed |
+| SSH case study | 24 November 2026 | completed |
 
 ## Work Organisation
 

@@ -60,6 +60,13 @@ Week 26:
 • Investigated Start button (I0.0) fault — checked wiring continuity and confirmed faulty Schneider ZBE-101 contact, sourced replacement part
 • Continued DHEC reject data entry into tracker, completed January through March and began Pareto analysis review
 
+Week 27:
+• Replaced faulty Schneider ZBE-101 Start button (I0.0) and tested PLC inputs to confirm normal operation restored
+• Finalised CSV data export configuration in VS Creator — verified consistent logging of pass/fail results per inspection cycle
+• Completed DHEC reject data entry for April through June and compiled full dataset into tracker
+• Ran Pareto analysis on combined moulding and expanded defect data — confirmed mixer IR16 contamination as primary root cause driving inclusion defects
+• Prepared summary of DHEC findings for presentation to management, including defect breakdown charts and reject rate percentages
+
 
 
 
